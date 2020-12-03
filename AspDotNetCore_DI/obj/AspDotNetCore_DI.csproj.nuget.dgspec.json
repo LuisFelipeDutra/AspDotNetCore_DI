@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj": {}
+    "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj": {}
   },
   "projects": {
-    "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj": {
+    "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj",
+        "projectUniqueName": "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj",
         "projectName": "AspDotNetCore_DI",
-        "projectPath": "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj",
+        "projectPath": "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI.csproj",
         "packagesPath": "C:\\Users\\Luis_Dutra\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\AspDotNetCore_DI\\obj\\",
+        "outputPath": "C:\\PROJECTS\\AspDotNetCore_DI\\AspDotNetCore_DI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
