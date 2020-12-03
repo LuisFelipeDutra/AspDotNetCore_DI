@@ -124,3 +124,4 @@ C:\PROJECTS\AspDotNetCore_DI\AspDotNetCore_DI\obj\Debug\netcoreapp3.1\AspDotNetC
 C:\PROJECTS\AspDotNetCore_DI\AspDotNetCore_DI\obj\Debug\netcoreapp3.1\AspDotNetCore_DI.dll
 C:\PROJECTS\AspDotNetCore_DI\AspDotNetCore_DI\obj\Debug\netcoreapp3.1\AspDotNetCore_DI.pdb
 C:\PROJECTS\AspDotNetCore_DI\AspDotNetCore_DI\obj\Debug\netcoreapp3.1\AspDotNetCore_DI.genruntimeconfig.cache
+C:\PROJECTS\AspDotNetCore_DI\AspDotNetCore_DI\obj\Debug\netcoreapp3.1\AspDotNetCore_DI.csprojAssemblyReference.cache
