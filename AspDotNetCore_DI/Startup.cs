@@ -1,11 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using AspDotNetCore_DI.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -52,7 +47,9 @@ namespace AspDotNetCore_DI
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapRazorPages(); //Routes for pages
+                endpoints.MapControllers(); //Routes for my API controllers
+                endpoints.MapControllerRoute("Default", "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
